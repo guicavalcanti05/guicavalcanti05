@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hello! My name is Guilherme Cavalcanti  :wave:
 
-<!--
-**guicavalcanti05/guicavalcanti05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+:student: I'am a graduate in information systems at FIAP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:dart: My main objetive is to enter in job market in area related to IT.
+
+:writing_hand: Actually i'am studying Java and front-end development.
+
+
+##
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guicavalcanti05&show_icons=true&theme=radical);
+
+
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Gui-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Gui-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Gui-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Gui-Bootstrap" height="40" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img align="center" alt="Gui-Java" height="40" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+</div>
+
+
+
